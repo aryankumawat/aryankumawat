@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**aryankumawat/aryankumawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Aryan Kumawat**, a penultimate-year **Bachelor of Advanced Computing** student at the **University of Sydney**, majoring in **Computational Data Science & Finance**.  
 
-Here are some ideas to get you started:
+**Core Areas:**  
+- Data Science  
+- Machine Learning  
+- Financial Modeling  
+- Statistics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Career Focus
+Building **AI-driven solutions** that bridge the gap between complex data and business value.  
+Passionate about creating innovative tools that make data science accessible and impactful.  
+
+## 🌐 Connect with me
+- Portfolio: [aryankumawat.com](https://aryankumawat.com)  
+- LinkedIn: [linkedin.com/in/aryankumawat](https://linkedin.com/in/aryankumawat)  
+- Email: akum9196@uni.sydney.edu.au  
+
+---
+
+### ⚡ GitHub Stats
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryankix101&show_icons=true&theme=radical)
+
+---
+
+### 🎉 Fun Fact
+I can **spin a laptop on my finger** 💻🤹
