@@ -19,10 +19,5 @@ Passionate about creating innovative tools that make data science accessible and
 
 ---
 
-### ⚡ GitHub Stats
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryankix101&show_icons=true&theme=radical)
-
----
-
 ### 🎉 Fun Fact
 I can **spin a laptop on my finger** 💻🤹
